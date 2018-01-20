@@ -15,8 +15,8 @@
             "help": { "online": "" },
             "url": "https://github.com/kimio-kosaka/udev-rules/archive/v1.0.1.tar.gz",
             "archiveFileName": "udev_rules-1.0.1.tar.gz",
-            "checksum": "SHA-256:",
-            "size": "2752",
+            "checksum": "SHA-256:7dd116f0ca16dc399b58d6a9efe38ee4907f07f67b05b1762f56683e925644d9",
+            "size": "2858",
             "boards": [
               {"name": "Install_Digispark_udev-rule"},{"name": "Install_Metaboard_udev-rule"}
             ],
