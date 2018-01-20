@@ -10,11 +10,11 @@
         {
             "name": "udev_rules",
             "architecture": "avr",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "category": "Contributed",
             "help": { "online": "" },
-            "url": "https://github.com/kimio-kosaka/udev-rules/archive/v1.0.0.tar.gz",
-            "archiveFileName": "udev_rules-1.0.0.tar.gz",
+            "url": "https://github.com/kimio-kosaka/udev-rules/archive/v1.0.1.tar.gz",
+            "archiveFileName": "udev_rules-1.0.1.tar.gz",
             "checksum": "SHA-256:",
             "size": "2752",
             "boards": [
