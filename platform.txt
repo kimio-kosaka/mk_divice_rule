@@ -5,8 +5,8 @@
 # For more info:
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5---3rd-party-Hardware-specification
 
-name=bitDuino13
-version=1.6.3
+name=udev-rules
+version=1.0.1
 
 # AVR compile variables
 # --------------------- 
