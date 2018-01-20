@@ -1,5 +1,5 @@
 ####################################################
-runscript.name=Install Digispark udeb-rule
+runscript.name=Install Digispark udev-rule
 runscript.bootloader.file=mk_digispark_rule.sh
 ### dummy setting#####################
 runscript.upload.tool=arduino:avrdude
