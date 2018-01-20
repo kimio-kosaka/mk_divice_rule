@@ -1,5 +1,5 @@
 ####################################################
-runscript.name=Digispark rule
+runscript.name=Install Digispark udeb-rule
 runscript.bootloader.file=mk_digispark_rule.sh
 ### dummy setting#####################
 runscript.upload.tool=arduino:avrdude
@@ -20,7 +20,7 @@ runscript.build.core=arduino:arduino
 runscript.build.variant=arduino:eightanaloginputs
 
 #####################################################
-runscript_2.name=Metaboard rule
+runscript_2.name=Install Metaboard udev-rule
 runscript_2.bootloader.file=mk_metaboard_rule.sh
 ### dummy setting#####################
 runscript_2.upload.tool=arduino:avrdude
